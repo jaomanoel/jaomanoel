@@ -2,13 +2,12 @@
 
 <div align="center">
   <a href="https://github.com/jaomanoel">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaomanoel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&token=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" alt="João Manoel's GitHub stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaomanoel&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="João Manoel's GitHub stats"/>
   </a>
   <a href="https://github.com/jaomanoel">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaomanoel&layout=compact&langs_count=7&theme=dark&token=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" alt="João Manoel's most used languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaomanoel&layout=compact&langs_count=7&theme=dark" alt="João Manoel's most used languages"/>
   </a>
 </div>
----
 
 ### 🛠️ Technologies & Tools
 
